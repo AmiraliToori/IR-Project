@@ -30,6 +30,9 @@ for doc in raw_dataset:
 
 
 ###############################################################################################################
+
+
+
 from nltk.stem import PorterStemmer 
 
 # read the list of stop words
@@ -49,7 +52,7 @@ stemmer = PorterStemmer()
 dictionary = []
 def create_dictionary(doc, dictionary):
     for element in doc:
-        if element.isalpha:
+        if element.isalpha():
             element = stemmer.stem(element)
             if (element not in stop_words) and (element not in dictionary):
                 dictionary.append(element)
@@ -61,6 +64,42 @@ for num in range(1, doc_index + 1):
         doc = file.read()
         doc = transfer_to_list(doc)
         create_dictionary(doc, dictionary)
+        
+        
+        
 #########################################################################################################################
+import numpy as np
+import pandas as pd
+
+tf_array = np.zeros((len(dictionary), doc_index))
 
 
+def calculate_term_frequencies(doc, dictionary, doc_no):
+    for word in dictionary:
+        if word in doc:
+            frequency = doc.count(word)
+            row = dictionary.index(word)
+            column = doc_no - 1
+            tf_array[row, column] += frequency
+            
+doc_names_list = []
+for num in range(1, doc_index + 1):
+    doc_path = "/home/glados/Documents/AmirAli Toori/Lessons/Python/IR-Project/docs" + "/doc" + str(num) + ".txt"
+    doc_names_list.append("doc" + str(num) + ".txt")
+    with open(doc_path, "r") as file:
+        doc = file.read()
+        calculate_term_frequencies(doc, dictionary, num)
+
+ic(tf_array)
+row, column = np.shape(tf_array)
+for r in range(row):
+    for c in range(column):
+        if tf_array[r, c] != 0:
+            tf_array[r, c] = 1 + np.log10([tf_array[r, c]])
+        elif tf_array[r, c] == 0:
+            tf_array[r, c] = 1
+
+file_name = "tf_excel.xlsx"
+df = pd.DataFrame(tf_array, columns = doc_names_list, index = dictionary) # Create a pandas dataframe
+df.to_excel(file_name) # Create an excel file
+print(df)
