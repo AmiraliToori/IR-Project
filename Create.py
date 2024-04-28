@@ -1,6 +1,7 @@
 from icecream import ic
 import os
 
+
 dataset_path = "/home/glados/Documents/AmirAli Toori/Lessons/Python/IR-Project/cran.all.1400"
 
 # read the cran.all.1400 file that contain the all of the datasets
@@ -53,9 +54,9 @@ dictionary = []
 def create_dictionary(doc, dictionary):
     for element in doc:
         if element.isalpha():
-            element = stemmer.stem(element)
-            if (element not in stop_words) and (element not in dictionary):
-                dictionary.append(element)
+            stem_word = stemmer.stem(element)
+            if (stem_word not in stop_words) and (stem_word not in dictionary):
+                dictionary.append(stem_word)
         
 # read each doc and pass them through the methods
 for num in range(1, doc_index + 1):
@@ -71,35 +72,79 @@ for num in range(1, doc_index + 1):
 import numpy as np
 import pandas as pd
 
+# initializing the numpy arrays
 tf_array = np.zeros((len(dictionary), doc_index))
+idf_array = np.zeros((len(dictionary), 1))
+tf_idf_array = np.zeros((len(dictionary), doc_index))
 
 
-def calculate_term_frequencies(doc, dictionary, doc_no):
+def calculate_term_frequency(doc, dictionary, doc_no):
     for word in dictionary:
         if word in doc:
             frequency = doc.count(word)
             row = dictionary.index(word)
             column = doc_no - 1
             tf_array[row, column] += frequency
-            
+
+
+def calculate_inverse_document_frequency(doc, dictionary):
+    for word in dictionary:
+        if word in doc:
+            row = dictionary.index(word)
+            idf_array[row, 0] += 1
+    
+    
+# extract the text from each document
+def extract_the_text(doc):
+    start = doc.find(".W")
+    doc = doc[start + 2:]
+    return doc
+
 doc_names_list = []
 for num in range(1, doc_index + 1):
     doc_path = "/home/glados/Documents/AmirAli Toori/Lessons/Python/IR-Project/docs" + "/doc" + str(num) + ".txt"
     doc_names_list.append("doc" + str(num) + ".txt")
     with open(doc_path, "r") as file:
         doc = file.read()
-        calculate_term_frequencies(doc, dictionary, num)
+        doc = extract_the_text(doc)
+        calculate_term_frequency(doc, dictionary, num)
+        calculate_inverse_document_frequency(doc, dictionary)
 
-ic(tf_array)
+# calculating tf array
 row, column = np.shape(tf_array)
 for r in range(row):
     for c in range(column):
-        if tf_array[r, c] != 0:
+        if tf_array[r, c] > 0:
             tf_array[r, c] = 1 + np.log10([tf_array[r, c]])
-        elif tf_array[r, c] == 0:
+        else:
             tf_array[r, c] = 1
 
-file_name = "tf_excel.xlsx"
-df = pd.DataFrame(tf_array, columns = doc_names_list, index = dictionary) # Create a pandas dataframe
-df.to_excel(file_name) # Create an excel file
-print(df)
+count_of_documents = column
+row, column = np.shape(idf_array)
+
+
+# calculating idf array
+for r in range(row):
+    if idf_array[r, 0] > 0:
+        idf_array[r, 0] = np.log10(count_of_documents / idf_array[r, 0])
+    else:
+        idf_array[r, 0] = 0
+
+
+# multiply peer to peer each row of tf-array in idf-array
+row, column = np.shape(tf_idf_array)
+for r in range(row):
+    for c in range(column):
+        tf_idf_array[r, c] = tf_array[r, c] * idf_array[r, 0]
+
+
+# function to create the excel files
+def create_excel(input , name, columns, index):
+    df = pd.DataFrame(input, columns = columns, index = index) # Create a pandas dataframe
+    df.to_excel(name) # Create an excel file
+    print(df)
+    
+
+create_excel(tf_array, "tf_excel.xlsx", doc_names_list, dictionary)
+create_excel(idf_array, "idf_excel.xlsx", ["IDF"], dictionary)
+create_excel(tf_idf_array, "tf_idf_excel.xlsx", doc_names_list, dictionary)
