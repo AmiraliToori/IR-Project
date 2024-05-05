@@ -1,5 +1,5 @@
 import GUI
-from icecream import ic # type: ignore
+
 
 entry = GUI.select_file() # Select File GUI implementation
 
@@ -13,8 +13,6 @@ doc_index = 0
 for doc in raw_dataset:
     doc_index += 1
     doc_path = "/home/glados/Documents/AmirAli Toori/Lessons/Python/IR-Project/docs" + "/doc" + str(doc_index) + ".txt"
-    
-    # GUI.extract_the_docs(doc_path)
     
     with open(doc_path, "w") as document: # write each index into the separated doc
         document.write(doc)
@@ -66,10 +64,18 @@ import numpy as np # type: ignore
 import pandas as pd # type: ignore
 
 # initializing the numpy arrays
+term_doc_matrix = np.zeros((len(dictionary), doc_index))
 tf_array = np.zeros((len(dictionary), doc_index))
 idf_array = np.zeros((len(dictionary), 1))
 tf_idf_array = np.zeros((len(dictionary), doc_index))
 
+def term_doc_matrix(doc, dictionary, doc_no):
+    for word in doc:
+        if word in dictionary:
+            row = dictionary.index(word)
+            column = doc_no - 1
+            tf_array[row, column] = 1
+    
 
 def calculate_term_frequency(doc, dictionary, doc_no):
     for word in dictionary:
@@ -78,8 +84,6 @@ def calculate_term_frequency(doc, dictionary, doc_no):
             row = dictionary.index(word)
             column = doc_no - 1
             tf_array[row, column] += frequency
-
-
 
 
 def calculate_inverse_document_frequency(doc, dictionary):
@@ -96,6 +100,7 @@ for num in range(1, doc_index + 1):
     doc_names_list.append("doc" + str(num) + ".txt")
     with open(doc_path, "r") as file:
         doc = file.read()
+        term_doc_matrix(doc, dictionary, num)
         calculate_term_frequency(doc, dictionary, num)
         calculate_inverse_document_frequency(doc, dictionary)
 
@@ -109,7 +114,7 @@ for r in range(row):
             extracted_element = tf_array[r, c]
             tf_array[r, c] = 1 + np.log10(extracted_element)
         else:
-            tf_array[r, c] = 1
+            tf_array[r, c] = 0
 
 
 GUI.custom_window("700x35", "Complete!", "The calculation of Term Frequency is have been successful.")
