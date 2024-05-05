@@ -1,0 +1,1 @@
+progress_window.geometry("400x50")
