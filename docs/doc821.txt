@@ -1,17 +1,1 @@
- 821
-.T
-inelastic column theory .
-.A
-shanley,f.r.
-.B
-j. ae. scs. 14, 1949, 261.
-.W
-inelastic column theory .
-  the action of a column in the plastic range is analyzed on the
-basis that bending may proceed simultaneously with increasing
-axial load .  this leads to a new column formula that includes
-both the tangent-modulus (engesser) and the reduced-modulus
-the tangent-modulus load and that the column load increases
-with increasing lateral deflection, approaching the
-reduced-modulus load as a limit if the tangent modulus is assumed to
-remain constant .
+821 T inelast column theori A shanley f r B j ae scs 14 1949 261 W inelast column theori the action of a column in the plastic rang is analyz on the basi that bend may proceed simultan with increas axial load this lead to a new column formula that includ both the tangent modulus engesser and the reduc modulus the tangent modulus load and that the column load increas with increas later deflect approach the reduc modulus load as a limit if the tangent modulus is assum to remain constant

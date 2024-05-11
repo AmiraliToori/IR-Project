@@ -1,16 +1,1 @@
- 1069
-.T
-design and testing of honeycomb sandwich cylinders
-under axial compression .
-.A
-cunningham,j.h. and jacobson,m.j.
-.B
-nasa tn.d1510, 1962.
-.W
-design and testing of honeycomb sandwich cylinders
-under axial compression .
-  experimental results for 36 diameter honeycomb cylinders
-fabricated with thin (0.010) aluminum faces and cores prove that it is
-quite feasible to stabilize thin faces so they can be loaded beyond
-the yield point .  the effect of initial imperfections and the various
-modes of failure are discussed .
+1069 T design and test of honeycomb sandwich cylind under axial compress A cunningham j h and jacobson m j B nasa tn d1510 1962 W design and test of honeycomb sandwich cylind under axial compress experiment results for 36 diamet honeycomb cylind fabric with thin 0 010 aluminum face and core prove that it is quite feasibl to stabil thin face so they can be load beyond the yield point the effect of initi imperfect and the various mode of failur are discuss

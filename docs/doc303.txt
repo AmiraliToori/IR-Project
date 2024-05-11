@@ -1,18 +1,1 @@
- 303
-.T
-effect of variable heat recombination on stagnation
-point heat transfer .
-.A
-fenster,s.j. and neyman,r.j.
-.B
-j. ae. scs. 29, 1962.
-.W
-effect of variable heat recombination on stagnation
-point heat transfer .
-  earlier studies assume an average heat of formation of atoms
-based upon external flow conditions .  it is shown that equilibrium
-heat transfer decreases by 35 for a typical mach number 24 case
-when allowance is made for the proportions of air components .
-the variable recombination energy also results in atom mass
-fractions which are realistically less for equilibrium than frozen
-situations throughout the cold-wall boundary layer .
+303 T effect of variabl heat recombin on stagnat point heat transfer A fenster s j and neyman r j B j ae scs 29 1962 W effect of variabl heat recombin on stagnat point heat transfer earlier studi assum an averag heat of formation of atom base upon extern flow condit it is shown that equilibrium heat transfer decreas by 35 for a typic mach number 24 case when allow is made for the proport of air compon the variabl recombin energi also results in atom mass fraction which are realist less for equilibrium than frozen situat throughout the cold wall boundari layer

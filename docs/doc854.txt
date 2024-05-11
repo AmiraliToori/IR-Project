@@ -1,15 +1,1 @@
- 854
-.T
-boundary-value problems of the thin-walled circular
-cylinder .
-.A
-hoff,n.j.
-.B
-j. app. mech. 21, 1954.
-.W
-boundary-value problems of the thin-walled circular
-cylinder .
-  the homogeneous differential equations of donnell's
-theory of thin cylindrical shells are integrated .
-expressions are obtained in closed form for the displacements,
-membrane stresses, moments, and shear forces .
+854 T boundari value problem of the thin wall circular cylind A hoff n j B j app mech 21 1954 W boundari value problem of the thin wall circular cylind the homogen differenti equat of donnell s theori of thin cylindr shell are integr express are obtained in close form for the displac membran stress moment and shear forc

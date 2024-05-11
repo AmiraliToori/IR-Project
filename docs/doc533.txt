@@ -1,14 +1,1 @@
- 533
-.T
-stagnation-point shock-detachment distance for flow
-around spheres and cylinders in air .
-.A
-ambrosio,a. and wortman,a.
-.B
-j. ae. scs. 29, 1962.
-.W
-stagnation-point shock-detachment distance for flow
-around spheres and cylinders in air .
-  author discusses the problem of deflection of a cantilevered
-bar, initially in the shape of a circular arc, subjected to an
-arbitrarily inclined end load .
+533 T stagnat point shock detach distanc for flow around sphere and cylind in air A ambrosio a and wortman a B j ae scs 29 1962 W stagnat point shock detach distanc for flow around sphere and cylind in air author discuss the problem of deflect of a cantilev bar initi in the shape of a circular arc subject to an arbitrarili inclin end load

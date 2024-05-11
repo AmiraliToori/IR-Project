@@ -1,17 +1,1 @@
- 1397
-.T
-critical shear stress of an infinitely long simply
-supported plate with transverse stiffeners .
-.A
-stein,m. and fralich,r.w.
-.B
-naca tn.1851, 1949.
-.W
-critical shear stress of an infinitely long simply
-supported plate with transverse stiffeners .
-  a theoretical solution is given for the critical shear stress of
-an infinitely long, simply supported, flat plate with identical, equally
-spaced, transverse stiffeners of zero torsional stiffness .  results are
-obtained by means of the lagrangian multiplier method and are presented
-in the form of design charts .  experimental results are included and
-are found to be in good agreement with the theoretical results .
+1397 T critic shear stress of an infinit long simpli support plate with transvers stiffen A stein m and fralich r w B naca tn 1851 1949 W critic shear stress of an infinit long simpli support plate with transvers stiffen a theoret solut is given for the critic shear stress of an infinit long simpli support flat plate with ident equal space transvers stiffen of zero torsional stiff results are obtained by means of the lagrangian multipli method and are present in the form of design chart experiment results are includ and are found to be in good agreement with the theoret results

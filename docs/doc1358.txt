@@ -1,15 +1,1 @@
- 1358
-.T
-compressive buckling of simply supported plates with
-transverse stiffeners .
-.A
-budiansky,b. and seide,p.
-.B
-naca tn.1557, 1948.
-.W
-compressive buckling of simply supported plates with
-transverse stiffeners .
-  charts are presented for the analysis of the stability under
-longitudinal compression of simply supported rectangular plates with
-several equally spaced transverse stiffeners that have both torsional
-and flexural rigidity .
+1358 T compressive buckl of simpli support plate with transvers stiffen A budiansky b and seide p B naca tn 1557 1948 W compressive buckl of simpli support plate with transvers stiffen chart are present for the analysi of the stabil under longitudin compress of simpli support rectangular plate with several equal space transvers stiffen that have both torsional and flexural rigid

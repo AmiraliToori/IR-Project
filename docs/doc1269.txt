@@ -1,17 +1,1 @@
- 1269
-.T
-a study of supersonic combustion .
-.A
-gross,r.a. and chinitz,w.
-.B
-j. ae. scs. 1960, 517.
-.W
-a study of supersonic combustion .
-  steady, stable, plain, and oblique detonation waves were
-created in a high-temperature, steady flow supersonic tunnel .
-ignition conditions and properties across the wave were
-measured .  the local-wave fluid-dynamic properties agree well
-with detonation theory .  experimental data are presented in
-detail and compared with other studies and theory .
-experimental behavior of these detonations and their possible utility
-are discussed .
+1269 T a studi of superson combust A gross r a and chinitz w B j ae scs 1960 517 W a studi of superson combust steadi stabl plain and obliqu deton wave were creat in a high temperatur steadi flow superson tunnel ignit condit and properti across the wave were measur the local wave fluid dynam properti agre well with deton theori experiment data are present in detail and compar with other studi and theori experiment behavior of these deton and their possible util are discuss

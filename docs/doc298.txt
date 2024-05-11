@@ -1,15 +1,1 @@
- 298
-.T
-incompressible wedge flows of an electrically conducting
-viscous fluid in the presence of a magnetic field .
-.A
-yen,k.t.
-.B
-j. ae. scs. 27, 1960.
-.W
-incompressible wedge flows of an electrically conducting
-viscous fluid in the presence of a magnetic field .
-  the purpose of this note is to discuss the two-dimensional
-flow of an electrically conducting viscous fluid past a wedge
-in the presence of a magnetic field .  the governing differential
-equations and boundary conditions are given and analyzed .
+298 T incompress wedg flow of an electr conduct viscous fluid in the presenc of a magnet field A yen k t B j ae scs 27 1960 W incompress wedg flow of an electr conduct viscous fluid in the presenc of a magnet field the purpos of this note is to discuss the two dimension flow of an electr conduct viscous fluid past a wedg in the presenc of a magnet field the govern differenti equat and boundari condit are given and analyz

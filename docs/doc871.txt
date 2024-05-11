@@ -1,15 +1,1 @@
- 871
-.T
-steady-state creep through dislocation climb .
-.A
-weertman,j.
-.B
-j.app. phys. 28, 1957, 362.
-.W
-steady-state creep through dislocation climb .
-  a dislocation climb creep model is considered which does not require
-the production of immobile dislocations .  the creep equation that
-results from the analysis is
-where a and b are constants, is the stress, q is the activation energy
-of creep and kt has its usual meaning .  this equation is quite similar
-to one previously proposed .
+871 T steadi state creep through disloc climb A weertman j B j app phys 28 1957 362 W steadi state creep through disloc climb a disloc climb creep model is consid which does not requir the product of immobil disloc the creep equat that results from the analysi is where a and b are constant is the stress q is the activ energi of creep and kt has its usual mean this equat is quite similar to one previously propos

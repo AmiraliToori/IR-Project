@@ -1,17 +1,1 @@
- 386
-.T
-a generalised porous-wall ?couette type? flow .
-.A
-cramer,k.r.
-.B
-j. ae. scs. 26, 1959, 121.
-.W
-a generalised porous-wall ?couette type? flow .
-  recently, it was observed that the two existing
-boundary-layer texts (references 1 and 2) did not contain a solution
-for the case of couette flow with a constant, uniformly
-distributed suction or blowing .  thus, the following analysis
-considers a /couette-type/ flow between a stationary flat surface and
-a slightly inclined flat plate moving at a constant velocity .  in
-addition, the flow is subjected to a constant, uniformly distributed
-suction or blowing at the fixed surface .
+386 T a generalis porous wall couette type flow A cramer k r B j ae scs 26 1959 121 W a generalis porous wall couette type flow recently it was observ that the two exist boundari layer text refer 1 and 2 did not contain a solut for the case of couette flow with a constant uniform distribut suction or blow thus the following analysi consid a couette type flow between a stationari flat surfac and a slightly inclin flat plate move at a constant veloc in addit the flow is subject to a constant uniform distribut suction or blow at the fix surfac

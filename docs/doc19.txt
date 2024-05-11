@@ -1,17 +1,1 @@
- 19
-.T
-an investigation of the pressure distribution on conical bodies in
-hypersonic flows .
-.A
-victor zakkay
-.B
-aerodynamics laboratory, polytechnic institute of brooklyn, freeport,
-n.y.
-.W
-an investigation of the pressure distribution on conical bodies in
-hypersonic flows .
-a large amount of work on conical flow fields without axial symmetry
-at supersonic speed is presently available .  however, no apparent
-hypersonic approximation has yet been derived .  in this note,
-experimental data on two elliptical cones at m = 6 are presented and a
-hypersonic approach obtained from physical considerations is suggested .
+19 T an investig of the pressur distribut on conic bodi in hypersonic flow A victor zakkay B aerodynam laboratori polytechn institut of brooklyn freeport n y W an investig of the pressur distribut on conic bodi in hypersonic flow a large amount of work on conic flow field without axial symmetri at superson speed is present available however no apparent hypersonic approxim has yet been deriv in this note experiment data on two ellipt cone at m 6 are present and a hypersonic approach obtained from physic consider is suggest

@@ -1,17 +1,1 @@
- 632
-.T
-calculated lift distributions in incompressible flow
-on some sweptback wings .
-.A
-bagley,j.a. and joyce,g.m.
-.B
-rae tn. aero.2836, 1962.
-.W
-calculated lift distributions in incompressible flow
-on some sweptback wings .
-  in the course of a larger survey of some aerodynamic characteristics
-of a family of sweptback wings, the low-speed lift distributions were
-calculated .  the 35 planforms considered cover a range of leading-edge
-sweep angles from 55 to 70, and aspect ratios from 2 to 3.9 .  the
-results are given here, together with a comparison with other
-calculations and with experimental results on one particular wing .
+632 T calcul lift distribut in incompress flow on some sweptback wing A bagley j a and joyc g m B rae tn aero 2836 1962 W calcul lift distribut in incompress flow on some sweptback wing in the course of a larger survey of some aerodynam characterist of a famili of sweptback wing the low speed lift distribut were calcul the 35 planforms consid cover a rang of lead edg sweep angl from 55 to 70 and aspect ratio from 2 to 3 9 the results are given here together with a comparison with other calcul and with experiment results on one particular wing

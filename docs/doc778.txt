@@ -1,15 +1,1 @@
- 778
-.T
-an integral related to the radiation integrals .
-.A
-powell,e.o.
-.B
-phil. mag. 34, 1943, 600.
-.W
-an integral related to the radiation integrals .
-  the author points out the relation of the integral
-to problems in astrophysics and quantum mechanics, and
-because of its importance supplies a table of values .  the
-table gives rl(x) to seven places of decimals from x=0 to
-x=6.00 at intervals of 0.01 .  second order central differences
-are tabulated to assist in interpolation .
+778 T an integr related to the radiat integr A powel e o B phil mag 34 1943 600 W an integr related to the radiat integr the author point out the relat of the integr to problem in astrophys and quantum mechan and because of its importance suppli a tabl of valu the tabl gives rl x to seven place of decim from x 0 to x 6 00 at interv of 0 01 second order central differ are tabul to assist in interpol

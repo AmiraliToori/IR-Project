@@ -1,11 +1,1 @@
- 507
-.T
-energy equation approximations in fluid mechanics .
-.A
-goldstein,a.w.
-.B
-j. ae. scs. 29, 1962,358
-.W
-energy equation approximations in fluid mechanics .
-  discussion of several forms of the energy equation and of their
-use for the study of the flow of nearly incompressible fluids .
+507 T energi equat approxim in fluid mechan A goldstein a w B j ae scs 29 1962 358 W energi equat approxim in fluid mechan discuss of several form of the energi equat and of their use for the studi of the flow of nearly incompress fluid

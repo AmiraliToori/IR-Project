@@ -1,15 +1,1 @@
- 775
-.T
-studies on two dimensional flows of compressible fluid.
-.A
-.B
-.W
-studies on two dimensional flows of compressible fluid.
-  it is well-known that when the flow is everywhere subsonic in a field
-of flow, the nature of the two-dimensional isentropic flow of a
-compressible perfect fluid differs only slightly from that of the
-corresponding flow of an incompressible perfect fluid .  thus, in such a
-case, we can calculate the field of flow by any of the well-known
-methods of approximation .  on the other hand, if the flow is supersonic
-throughout the field, we can determine the flow pattern by the method of
-characteristics .
+775 T studi on two dimension flow of compress fluid A B W studi on two dimension flow of compress fluid it is well known that when the flow is everywhere subson in a field of flow the natur of the two dimension isentrop flow of a compress perfect fluid differ only slightly from that of the corresponding flow of an incompress perfect fluid thus in such a case we can calcul the field of flow by any of the well known method of approxim on the other hand if the flow is superson throughout the field we can determin the flow pattern by the method of characterist

@@ -1,18 +1,1 @@
- 700
-.T
-two and three-dimensional unsteady lift problems in high speed flight .
-.A
-lomax et al.
-.B
-naca rep. 1077, 1952 .
-.W
-two and three-dimensional unsteady lift problems in high speed flight .
-the problem of transient lift on two- and three-dimensional wings flying
- at high speeds is discussed as a boundary-value problem for the
-classical wave equation . kirchhoffs formula is applied so that the
-analysis is reduced, just as in the steady state, to an investigation of
- sources and doublets . the applications include the evaluation of
-indicial lift and pitchingmoment curves for two-dimensional sinking and
-pitching wings flying at mach numbers equal to 0, 0.8, 1.0, 1.2, and
-triangular wings in both forward and reversed flow are presented and
-compared with the two-dimensional values .
+700 T two and three dimension unsteadi lift problem in high speed flight A lomax et al B naca rep 1077 1952 W two and three dimension unsteadi lift problem in high speed flight the problem of transient lift on two and three dimension wing fli at high speed is discuss as a boundari value problem for the classic wave equat kirchhoff formula is appli so that the analysi is reduc just as in the steadi state to an investig of sourc and doublet the applic includ the evalu of indicial lift and pitchingmoment curv for two dimension sink and pitch wing fli at mach number equal to 0 0 8 1 0 1 2 and triangular wing in both forward and revers flow are present and compar with the two dimension valu

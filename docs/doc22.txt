@@ -1,17 +1,1 @@
- 22
-.T
-on slip-flow heat transfer to a flat plate .
-.A
-oman,r.a. and scheuing,r.a.
-.B
-j. ae. scs. 26, 1959, 126.
-.W
-on slip-flow heat transfer to a flat plate .
-  assuming that continuum flow energy equation in a boundary
-layer remains valid well into slip region and taking account of the
-temperature jump in a moving rarefied gas and for influence of
-large mean free path through appropriate boundary conditions, a
-solution is found for the temperature gradient in the slip region .
-then from maslen expression (j. aero. sci. 25, 6, 400-401, june
-slipping fluid to a flat plate, and behavior confirms results for
-small values of knudsen number .
+22 T on slip flow heat transfer to a flat plate A oman r a and scheuing r a B j ae scs 26 1959 126 W on slip flow heat transfer to a flat plate assum that continuum flow energi equat in a boundari layer remain valid well into slip region and taking account of the temperatur jump in a move rarefi gas and for influenc of large mean free path through appropriate boundari condit a solut is found for the temperatur gradient in the slip region then from maslen express j aero sci 25 6 400 401 june slip fluid to a flat plate and behavior confirm results for small valu of knudsen number

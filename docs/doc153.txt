@@ -1,16 +1,1 @@
- 153
-.T
-on the steady motion of viscous, incompressible fluids,
-with particular reference to a variation principle .
-.A
-millikan,c.b.
-.B
-phil.mag. 7, 1929, 641.
-.W
-on the steady motion of viscous, incompressible fluids,
-with particular reference to a variation principle .
-  except in exceptional cases, it is not possible to represent the
-motion of a viscous incompressible liquid by means of a variation
-principle, but all cases of such motion that have yet been discovered
-belong to this class of /exceptional cases ./  the appropriate functions
-are given .
+153 T on the steadi motion of viscous incompress fluid with particular refer to a variat principl A millikan c b B phil mag 7 1929 641 W on the steadi motion of viscous incompress fluid with particular refer to a variat principl except in except case it is not possible to repres the motion of a viscous incompress liquid by means of a variat principl but all case of such motion that have yet been discov belong to this class of except case the appropriate function are given

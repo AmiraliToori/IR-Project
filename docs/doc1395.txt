@@ -1,18 +1,1 @@
- 1395
-.T
-low density stagnation point heat transfer measurements
-in the hypersonic shock tunnel .
-.A
-wilson,m.r. and wittliff,c.e.
-.B
-ars jnl. 32, 1962, 275.
-.W
-low density stagnation point heat transfer measurements
-in the hypersonic shock tunnel .
-  presents absolute heat-transfer measurements, using resistance
-thermometer, for hemisphere-cylinder at mach numbers 9.2 to 11.2 .
-results show vorticity-interaction and viscous-layer effects
-increase heat transfer above values predicted by boundary-layer
-theory .  data are correlated using cheng's reynolds-number-
-dependent parameter .  investigation covers vorticity-interaction to
-incipient-merged-layer regimes (free-stream unit reynolds numbers
+1395 T low densiti stagnat point heat transfer measur in the hypersonic shock tunnel A wilson m r and wittliff c e B ar jnl 32 1962 275 W low densiti stagnat point heat transfer measur in the hypersonic shock tunnel present absolut heat transfer measur using resist thermomet for hemispher cylind at mach number 9 2 to 11 2 results show vorticity interact and viscous layer effect increas heat transfer above valu predict by boundari layer theori data are correl using cheng s reynold number depend paramet investig cover vorticity interact to incipi merg layer regim free stream unit reynold number

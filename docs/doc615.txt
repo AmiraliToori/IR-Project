@@ -1,18 +1,1 @@
- 615
-.T
-the contraction of satellite orbits under the influence of air drag .
-part iii . high eccentricity orbits . /0.2 e 1/ .
-.A
-king-hele, d.g.
-.B
-r.a.e. tn. space 1, 1962 .
-.W
-the contraction of satellite orbits under the influence of air drag .
-part iii . high eccentricity orbits . /0.2 e 1/ .
-the effect of air drag on satellite orbits of eccentricity e less than
-between 0.2 and 1 is presented . equations are derived which show how
-perigee distance and orbital period vary with eccentricity during the
-satellite's life, and how eccentricity is related to time,.and formulae
-are obtained for the lifetime and the air density at perigee, in terms
-of the rate of change of period . the results are also presented
-graphically and their implications and limitations are discussed .
+615 T the contract of satellit orbit under the influenc of air drag part iii high eccentr orbit 0 2 e 1 A king hele d g B r a e tn space 1 1962 W the contract of satellit orbit under the influenc of air drag part iii high eccentr orbit 0 2 e 1 the effect of air drag on satellit orbit of eccentr e less than between 0 2 and 1 is present equat are deriv which show how perige distanc and orbit period vari with eccentr during the satellit s life and how eccentr is related to time and formula are obtained for the lifetim and the air densiti at perige in term of the rate of change of period the results are also present graphic and their implic and limit are discuss

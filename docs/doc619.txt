@@ -1,14 +1,1 @@
- 619
-.T
-density of the upper atmosphere from analysis of satellite orbits ..
-further results .
-.A
-king-hele, d.g.
-.B
-nature, v184, 1267-1270, 1959 . r.a.e. rep. gw. 25. appendix y .
-.W
-density of the upper atmosphere from analysis of satellite orbits ..
-further results .
-the method previously described has been refined by taking into account
-atmospheric rotation . further results are given from satellites of
-latitude and season and day-to-night changes are reported .
+619 T densiti of the upper atmospher from analysi of satellit orbit further results A king hele d g B natur v184 1267 1270 1959 r a e rep gw 25 appendix y W densiti of the upper atmospher from analysi of satellit orbit further results the method previously described has been refin by taking into account atmospher rotat further results are given from satellit of latitud and season and day to night changes are report

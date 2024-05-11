@@ -1,17 +1,1 @@
- 438
-.T
-stagnation point heat transfer measurements at super
-satellite speeds .
-.A
-offenhartz,e., wisblatt,h. and flagg, r.f.
-.B
-j. roy. aero. soc., 66, 1962.
-.W
-stagnation point heat transfer measurements at super
-satellite speeds .
-  brief description of experiments performed by using shock tube
-techniques for measurement of the stagnation point heating of a blunt
-body over a stagnation enthalpy range of 650 to 900,
-corresponding to velocities between 32,000 ft. per sec. and 39,000
-ft per sec., respectively .  data thus provided are used for
-comparison with theory .
+438 T stagnat point heat transfer measur at super satellit speed A offenhartz e wisblatt h and flagg r f B j roy aero soc 66 1962 W stagnat point heat transfer measur at super satellit speed brief descript of experi perform by using shock tube techniqu for measur of the stagnat point heat of a blunt body over a stagnat enthalpi rang of 650 to 900 corresponding to veloc between 32 000 ft per sec and 39 000 ft per sec respectively data thus provid are used for comparison with theori

@@ -1,15 +1,1 @@
- 925
-.T
-factors affecting loads at hypersonic speeds .
-.A
-henderson,a. and bertram,m.h.
-.B
-naca til.5576.
-.W
-factors affecting loads at hypersonic speeds .
-  this paper gives a brief summary of current loads information at
-hypersonic speeds .  several methods which the designer can employ in
-estimating the loads on various aircraft components are discussed .  the
-paper deals with the characteristics of both slender and blunt
-configurations and touches upon the effects of boundary-layer and
-aerodynamic interference .
+925 T factor affecting load at hypersonic speed A henderson a and bertram m h B naca til 5576 W factor affecting load at hypersonic speed this paper gives a brief summari of current load information at hypersonic speed several method which the design can employ in estim the load on various aircraft compon are discuss the paper deal with the characterist of both slender and blunt configur and touch upon the effect of boundari layer and aerodynam interfer

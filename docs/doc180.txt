@@ -1,18 +1,1 @@
- 180
-.T
-boundary layer over a flat plate in presence of shear
-flow .
-.A
-ting,l.
-.B
-phys. fluids, 13, 1960, 78.
-.W
-boundary layer over a flat plate in presence of shear
-flow .
-  the governing equations of an incompressible
-boundary layer over a flat plate in the presence of a
-shear flow with finite vorticity are derived .  for large
-vorticity, a similarity solution is obtained .  for
-moderate vorticity, one of the governing equations
-is replaced by an approximate one for which
-similarity solutions exist .
+180 T boundari layer over a flat plate in presenc of shear flow A ting l B phys fluid 13 1960 78 W boundari layer over a flat plate in presenc of shear flow the govern equat of an incompress boundari layer over a flat plate in the presenc of a shear flow with finite vorticity are deriv for large vorticity a similar solut is obtained for moder vorticity one of the govern equat is replac by an approximate one for which similar solut exist

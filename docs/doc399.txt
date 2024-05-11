@@ -1,14 +1,1 @@
- 399
-.T
-conduction of heat in composite slabs .
-.A
-jaeger, j. c.
-.B
-quart. appl. math. v. 8 july, 1950 . pp 187-198
-.W
-conduction of heat in composite slabs .
-a method of calculating the total quantity of heat that passes through a
- unit area from zero time to time t is developed . allowance is made for
- surface resistance by regarding each contact resistance as an
-additional layer of the appropriate thermal resistance and zero heat
-capacity
+399 T conduct of heat in composit slab A jaeger j c B quart appl math v 8 juli 1950 pp 187 198 W conduct of heat in composit slab a method of calcul the total quantiti of heat that pass through a unit area from zero time to time t is develop allow is made for surfac resist by regarding each contact resist as an addit layer of the appropriate thermal resist and zero heat capac

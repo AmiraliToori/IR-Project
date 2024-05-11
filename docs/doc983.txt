@@ -1,18 +1,1 @@
- 983
-.T
-addendum to 'heat transfer to satellite vehicles re-entering the
-atmosphere .
-.A
-detra, r.w., kemp, n.h. and riddell, f.r.
-.B
-jet propulsion, vol. 27, december 1957 . pp 1256-57 .
-.W
-addendum to 'heat transfer to satellite vehicles re-entering the
-atmosphere .
-the original paper gave a correlation formula for stagnation point heat
-transfer rate to a blunt body of revolution in hypersonic flow . this
-note gives a somewhat refined version, based on further calculation and
-shock tube data . its effect on the conclusions of the original paper is
- negligible except at surface temperature parameters of over 5000
-r-ft1/8 . in other problems, where heat transfer rate itself is
-important, it can make a significant defference .
+983 T addendum to heat transfer to satellit vehicl re enter the atmospher A detra r w kemp n h and riddell f r B jet propuls vol 27 decemb 1957 pp 1256 57 W addendum to heat transfer to satellit vehicl re enter the atmospher the origin paper gave a correl formula for stagnat point heat transfer rate to a blunt body of revolut in hypersonic flow this note gives a somewhat refin version base on further calcul and shock tube data its effect on the conclus of the origin paper is neglig except at surfac temperatur paramet of over 5000 r ft1 8 in other problem where heat transfer rate itself is important it can make a significant defference

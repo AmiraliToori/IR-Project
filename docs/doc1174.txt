@@ -1,17 +1,1 @@
- 1174
-.T
-general theory of buckling .
-.A
-langhaar,h.l.
-.B
-app. mech. rev. 11, 1958.
-.W
-general theory of buckling .
-various aspects of the theory of buckling are expounded
-in many treatises (1 to 15) .  the books of bleich (2)
-and salmon (3) contain large bibliographies .  goodier
-developments in buckling theory .  numerous references are
-appended to hoff's article .  nearly all publications on
-buckling of shells, available in the u.s.a. (to 1956), are listed in
-the bibliographies on shells by nash (18) .  the section
-ready guide to recent literature .
+1174 T general theori of buckl A langhaar h l B app mech rev 11 1958 W general theori of buckl various aspect of the theori of buckl are expound in many treatis 1 to 15 the book of bleich 2 and salmon 3 contain large bibliographi goodier develop in buckl theori numer refer are append to hoff s articl nearly all public on buckl of shell available in the u s a to 1956 are list in the bibliographi on shell by nash 18 the section ready guid to recent literatur

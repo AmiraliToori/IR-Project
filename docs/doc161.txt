@@ -1,16 +1,1 @@
- 161
-.T
-supersonic flow past a family of blunt symmetric bodies .
-.A
-van dyke,m.d. and gordon,h.d.
-.B
-nasa r-1, 1959.
-.W
-supersonic flow past a family of blunt symmetric bodies .
-  some 100 numerical computations have been
-carried out for unyawed bodies of revolution with
-detached bow waves .  the gas is assumed perfect
-with .  free-stream mach numbers
-are taken as 1.2, 1.5, 2, 3, 4, 6, 10, and .  the
-results are summarized with emphasis on the sphere
-and paraboloid .
+161 T superson flow past a famili of blunt symmetr bodi A van dyke m d and gordon h d B nasa r 1 1959 W superson flow past a famili of blunt symmetr bodi some 100 numer comput have been carri out for unyawed bodi of revolut with detach bow wave the gas is assum perfect with free stream mach number are taken as 1 2 1 5 2 3 4 6 10 and the results are summar with emphasi on the sphere and paraboloid

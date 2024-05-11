@@ -1,16 +1,1 @@
- 669
-.T
-subsonic potential flow past a sphere inside a cylindrical duct .
-.A
-william l. haberman
-.B
-david taylor model basin, carderock, md.
-.W
-subsonic potential flow past a sphere inside a cylindrical duct .
-the subsonic potential flow of a compressible fluid past a sphere
-in an infinite medium was first determined by rayleigh .  subsequently,
-caplan and tamada extended the solution to include the fourth power
-of the mach number .  to the author's knowledge, no solution for
-subsonic flow past a sphere in a finite medium has been published .  it
-is the purpose of this note to present a solution for subsonic
-potential flow past a sphere inside a circular cylindrical duct .
+669 T subson potential flow past a sphere insid a cylindr duct A william l haberman B david taylor model basin carderock md W subson potential flow past a sphere insid a cylindr duct the subson potential flow of a compress fluid past a sphere in an infinit medium was first determin by rayleigh subsequ caplan and tamada extend the solut to includ the fourth power of the mach number to the author s knowledg no solut for subson flow past a sphere in a finite medium has been publish it is the purpos of this note to present a solut for subson potential flow past a sphere insid a circular cylindr duct

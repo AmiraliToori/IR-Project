@@ -1,16 +1,1 @@
- 254
-.T
-boundary layers with suction and injection . a review
-of published work on skin friction .
-.A
-craven,a.h.
-.B
-coa r136.
-.W
-boundary layers with suction and injection . a review
-of published work on skin friction .
-  available data on the effects of suction and injection on skin
-friction are summarised and compared .
-  it is shown that injection into a turbulent boundary layer can
-produce a skin friction coefficient lower than the laminar value at the
-same reynolds number on an impermeable plate .
+254 T boundari layer with suction and inject a review of publish work on skin friction A craven a h B coa r136 W boundari layer with suction and inject a review of publish work on skin friction available data on the effect of suction and inject on skin friction are summaris and compar it is shown that inject into a turbul boundari layer can produc a skin friction coeffici lower than the laminar value at the same reynold number on an imperm plate

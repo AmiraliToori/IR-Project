@@ -1,17 +1,1 @@
- 676
-.T
-a simple method for calculating the span and chordwise loading on
-straight and swept wings of any aspect ratio at subsonic speeds .
-.A
-kuchemann, d.
-.B
-r + m 2935, r.a.e. rep. aero. 2476, a.r.c. 15,633. august 1962 .
-.W
-a simple method for calculating the span and chordwise loading on
-straight and swept wings of any aspect ratio at subsonic speeds .
-the methods of the classical aerofoil theory are used to derive a
-general theory for wings of any given planform . the load over the
-whole surface of a given wing can be calculated at a given subcritical
-mach number, and the procedure is as simple and rapid as that of the
-classical aerofoil theory . the calculated results are confirmed by
-experiments .
+676 T a simpl method for calcul the span and chordwise load on straight and swept wing of any aspect ratio at subson speed A kuchemann d B r m 2935 r a e rep aero 2476 a r c 15 633 august 1962 W a simpl method for calcul the span and chordwise load on straight and swept wing of any aspect ratio at subson speed the method of the classic aerofoil theori are used to deriv a general theori for wing of any given planform the load over the whole surfac of a given wing can be calcul at a given subcritical mach number and the procedur is as simpl and rapid as that of the classic aerofoil theori the calcul results are confirm by experi

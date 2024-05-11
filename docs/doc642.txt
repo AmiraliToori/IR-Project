@@ -1,18 +1,1 @@
- 642
-.T
-the buckling strength of a uniform circular cylinder
-loaded in axial compression .
-.A
-sobey,a.j.
-.B
-rae r. struct,279, 1962.
-.W
-the buckling strength of a uniform circular cylinder
-loaded in axial compression .
-  the theoretical estimation of the buckling strength of a cylinder
-loaded in axial compression is improved by the use of a more
-representative deflected form for the buckled cylinder than has
-previously been used .  kempner's buckling strength for dead weight
-loading is reduced by 18 .  the presentation of the magnitude and
-distribution of the constraint system required to maintain the mode is
-novel and instructive .
+642 T the buckl strength of a uniform circular cylind load in axial compress A sobey a j B rae r struct 279 1962 W the buckl strength of a uniform circular cylind load in axial compress the theoret estim of the buckl strength of a cylind load in axial compress is improv by the use of a more repres deflect form for the buckl cylind than has previously been used kempner s buckl strength for dead weight load is reduc by 18 the present of the magnitud and distribut of the constraint system requir to maintain the mode is novel and instruct

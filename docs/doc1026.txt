@@ -1,12 +1,1 @@
- 1026
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  this paper is concerned with the solution of the creep buckling of
-columns .  instantaneous elastic and plastic deformations, as well as
-the transient and secondary creep, are considered .  formulae for the
-critical time at which a column fails are presented for integral values
-of the exponents appearing in the creep law .
+1026 T note on creep buckl of column A B W note on creep buckl of column this paper is concern with the solut of the creep buckl of column instantan elast and plastic deform as well as the transient and secondari creep are consid formula for the critic time at which a column fail are present for integr valu of the expon appear in the creep law

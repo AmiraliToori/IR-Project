@@ -1,18 +1,1 @@
- 1118
-.T
-elastic stability of orthotropic shells .
-.A
-becker,h. and gerard,g.
-.B
-j. ae. scs. 29, 1962.
-.W
-elastic stability of orthotropic shells .
-  a small-deflection theory for general instability of orthotropic
-circular cylindrical shells has been derived for external pressure,
-torsion, and axial compression .  for the first two types of
-loading, comparison of the theory with experimental data for
-orthotropic cylinders reveals agreement comparable with that
-obtained for isotropic shells .  for axial compression, experimental
-data have been found to agree reasonably well with theory for
-orthotropic cylinders, in contrast to the agreement usually
-obtained for isotropic cylinders .
+1118 T elast stabil of orthotropic shell A becker h and gerard g B j ae scs 29 1962 W elast stabil of orthotropic shell a small deflect theori for general instabl of orthotropic circular cylindr shell has been deriv for extern pressur torsion and axial compress for the first two type of load comparison of the theori with experiment data for orthotropic cylind reveal agreement compar with that obtained for isotrop shell for axial compress experiment data have been found to agre reasonably well with theori for orthotropic cylind in contrast to the agreement usually obtained for isotrop cylind

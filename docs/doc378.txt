@@ -1,18 +1,1 @@
- 378
-.T
-engineering relations for friction and heat transfer to surfaces in high
- velocity flow .
-.A
-eckert, e.
-.B
-j. aero. sc. v.22, august 1955, pp 585-587
-.W
-engineering relations for friction and heat transfer to surfaces in high
- velocity flow .
-in calculations of thermodynamic heating for high speed missiles
-parameters have been used based on relationships which hold for
-constant-property fluids . the validity of this procedure has been verified
-recently in a survey of heat transfer in which a relationship for the
-reference temperature was developed . a calculation procedure for
-laminar and turbulent boundary layers, based on this relationship, is
-given .
+378 T engin relat for friction and heat transfer to surfac in high veloc flow A eckert e B j aero sc v 22 august 1955 pp 585 587 W engin relat for friction and heat transfer to surfac in high veloc flow in calcul of thermodynam heat for high speed missil paramet have been used base on relationship which hold for constant properti fluid the valid of this procedur has been verifi recently in a survey of heat transfer in which a relationship for the refer temperatur was develop a calcul procedur for laminar and turbul boundari layer base on this relationship is given

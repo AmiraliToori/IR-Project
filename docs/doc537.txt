@@ -1,18 +1,1 @@
- 537
-.T
-stagnation point viscous hypersonic flow .
-.A
-stoddard,f.j.
-.B
-j. ae. scs. 29, 1962, 1138.
-.W
-stagnation point viscous hypersonic flow .
-several methods have been developed for computing the
-hypersonic, low reynolds number flow in the stagnation
-region of a blunt body .  in general, these methods involve
-complicated numerical solutions .  simultaneous iterations on several
-parameters are usually required in view of the boundary-value
-nature of the problem .
-  the purpose of this note is to present an approximate
-closed-form solution to axisymmetric stagnation point hypersonic flow
-in the viscous layer regime .
+537 T stagnat point viscous hypersonic flow A stoddard f j B j ae scs 29 1962 1138 W stagnat point viscous hypersonic flow several method have been develop for comput the hypersonic low reynold number flow in the stagnat region of a blunt body in general these method involv complic numer solut simultan iter on several paramet are usually requir in view of the boundari value natur of the problem the purpos of this note is to present an approximate close form solut to axisymmetric stagnat point hypersonic flow in the viscous layer regim

@@ -1,15 +1,1 @@
- 978
-.T
-temperature profiles inafinite solid with moving boundary .
-.A
-dewey, c.f., schlesinger, s.i. and sashkin, l.
-.B
-j. aero. sc. v. 27, 1960 .
-.W
-temperature profiles inafinite solid with moving boundary .
-a numerical solution is presented to the transient heat conduction
-equation for a cylinder of finite thickness with one moving boundary .
-the implicit method of solution is developed with conductivity as an
-arbitrary function of temperature . application is made to a sample case
- of re-entry heating encountered by aerodynamic bodies, with erosion by
-sublimation and combustion occurring at the body surface .
+978 T temperatur profil inafinite solid with move boundari A dewey c f schlesing s i and sashkin l B j aero sc v 27 1960 W temperatur profil inafinite solid with move boundari a numer solut is present to the transient heat conduct equat for a cylind of finite thick with one move boundari the implicit method of solut is develop with conduct as an arbitrari function of temperatur applic is made to a sampl case of re entri heat encount by aerodynam bodi with eros by sublim and combust occur at the body surfac
