@@ -1,14 +1,1 @@
- 1060
-.T
-buckled states of circular plates .
-.A
-keller,h.b., keller,j.b. and reiss,e.l.
-.B
-q. app. math. 20, 1962, 55.
-.W
-buckled states of circular plates .
-  authors discuss the thin elastic circular disk of constant
-thickness subjected to a constant compressive thrust applied at its
-edge .  the analysis presented is based upon the nonlinear von
-karman equations of plate theory and is applied to disks with
-completely clamped and completely, simply supported edges .
+1060 T buckl state of circular plate A keller h b keller j b and reiss e l B q app math 20 1962 55 W buckl state of circular plate author discuss the thin elast circular disk of constant thick subject to a constant compressive thrust appli at its edg the analysi present is base upon the nonlinear von karman equat of plate theori and is appli to disk with complet clamp and complet simpli support edg

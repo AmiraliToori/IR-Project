@@ -1,18 +1,1 @@
- 411
-.T
-data on shape and location of detached shock waves
-in cones and sphere .
-.A
-herberle,j.w., wood,g.p. and gooderum,p.b.
-.B
-naca tn.2000, 1950.
-.W
-data on shape and location of detached shock waves
-in cones and sphere .
-  accurate experimental data are given on the shape and the location
-of detached shock waves on cones and spheres at mach numbers from 1.17
-to 1.81 .  the data are correlated to obtain equations that describe the
-shock waves .  this knowledge of the shock waves should be useful in
-calculations of the pressure distribution and the pressure drag of the
-fore part of cones and spheres .  the experimental data on shock waves
-are compared with theory .
+411 T data on shape and locat of detach shock wave in cone and sphere A herberle j w wood g p and gooderum p b B naca tn 2000 1950 W data on shape and locat of detach shock wave in cone and sphere accur experiment data are given on the shape and the locat of detach shock wave on cone and sphere at mach number from 1 17 to 1 81 the data are correl to obtain equat that describe the shock wave this knowledg of the shock wave should be useful in calcul of the pressur distribut and the pressur drag of the fore part of cone and sphere the experiment data on shock wave are compar with theori

@@ -1,14 +1,1 @@
- 1152
-.T
-on periodically oscillating wakes in the oseen approximation .
-.A
-lin,c.c.
-.B
-studies in maths . and mechs .,
-presented to r.von mises, p 170, academic press, 1954.
-.W
-on periodically oscillating wakes in the oseen approximation .
- studies in maths . and mechs .,
-  the oscillating vortex wake behind an obstacle at
-reynolds numbers of order 10 is studied by means of the
-oseen approximation .
+1152 T on period oscil wake in the oseen approxim A lin c c B studi in math and mechs present to r von mise p 170 academ press 1954 W on period oscil wake in the oseen approxim studi in math and mechs the oscil vortex wake behind an obstacl at reynold number of order 10 is studi by means of the oseen approxim

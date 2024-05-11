@@ -1,18 +1,1 @@
- 407
-.T
-stationary convection flow of an electrically conducting
-liquid between parallel plates in a magnetic field .
-.A
-gershuni,g.z. and shukhovitskii,e.m.
-.B
-soviet physics,34, 1958.
-.W
-stationary convection flow of an electrically conducting
-liquid between parallel plates in a magnetic field .
-  a study is made of the stationary convection
-of an electrically conducting liquid in the space
-between two parallel plates, heated to different
-temperatures, in the presence of a magnetic
-field .  the distribution of velocity, temperature,
-and induced fields are found, and the convective
-heat flow is calculated .
+407 T stationari convect flow of an electr conduct liquid between parallel plate in a magnet field A gershuni g z and shukhovitskii e m B soviet physic 34 1958 W stationari convect flow of an electr conduct liquid between parallel plate in a magnet field a studi is made of the stationari convect of an electr conduct liquid in the space between two parallel plate heat to different temperatur in the presenc of a magnet field the distribut of veloc temperatur and induc field are found and the convective heat flow is calcul

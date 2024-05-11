@@ -1,18 +1,1 @@
- 706
-.T
-on som reciprocal relations in the theory of nonstationary flows .
-.A
-garrick, i.e.
-.B
-naca rep. 629. 1938 .
-.W
-on som reciprocal relations in the theory of nonstationary flows .
-in the theory of nonstationary flows about airfoils, the /indicial lift/
- function k /s/ of wagner and the /alternating lift/ function c /k/ of
-theodorsen have fundamental significance . this paper reports on some
-interesting relations of the nature of fourier transforms that exist
-between these functions . general problems in transient flows about
-airfoils may be given a unified broad treatment when these functions are
- employed . certain approximate results also are reported which are of
-notable simplicity, and an analogy with transient electrical flows is
-drawn .
+706 T on som reciproc relat in the theori of nonstationary flow A garrick i e B naca rep 629 1938 W on som reciproc relat in the theori of nonstationary flow in the theori of nonstationary flow about airfoil the indicial lift function k s of wagner and the altern lift function c k of theodorsen have fundament signific this paper report on some interest relat of the natur of fourier transform that exist between these function general problem in transient flow about airfoil may be given a unifi broad treatment when these function are employ certain approximate results also are report which are of notabl simplic and an analog with transient electr flow is drawn

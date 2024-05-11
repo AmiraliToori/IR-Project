@@ -1,14 +1,1 @@
- 1014
-.T
-principles of creep buckling weight-strength analysis .
-.A
-.B
-.W
-principles of creep buckling weight-strength analysis .
-a problem of creep stability of columns and plates
-is considered .  in an analysis use is made
-of two forms of the creep theory based on the strain
-hardening hypothesis .  for a uniformly
-compressed palte a comparison is made between the
-results according to the flow theory and strain
-theory .
+1014 T principl of creep buckl weight strength analysi A B W principl of creep buckl weight strength analysi a problem of creep stabil of column and plate is consid in an analysi use is made of two form of the creep theori base on the strain harden hypothesi for a uniform compress palte a comparison is made between the results according to the flow theori and strain theori

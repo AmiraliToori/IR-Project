@@ -1,17 +1,1 @@
- 687
-.T
-oscillating airfoils at high mach number .
-.A
-lighthill, m.j.
-.B
-j. aero. sc. v. 20. june 1953. pp 402-406 .
-.W
-oscillating airfoils at high mach number .
-a simple formula is given for the pressure distribution on an
-oscillating airfoil in two-dimensional flow at high mach number . the
-formula is expected to be reasonably accurate if the pressure on the
-surface remains within the range 0.2 to 3.5 times the mainstream
-pressure . to illustrate the application of the formula, some results
-for symmetrical airfoils performing pitching oscillations are obtained
-and compared with results obtained from existing theories in the case of
- high mach number .
+687 T oscil airfoil at high mach number A lighthill m j B j aero sc v 20 june 1953 pp 402 406 W oscil airfoil at high mach number a simpl formula is given for the pressur distribut on an oscil airfoil in two dimension flow at high mach number the formula is expect to be reasonably accur if the pressur on the surfac remain within the rang 0 2 to 3 5 times the mainstream pressur to illustr the applic of the formula some results for symmetr airfoil perform pitch oscil are obtained and compar with results obtained from exist theori in the case of high mach number

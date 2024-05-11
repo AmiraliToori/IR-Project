@@ -1,16 +1,1 @@
- 886
-.T
-thermal buckling of clamped cylindrical shells .
-.A
-zuk,w.
-.B
-j. ae. scs. 24, 1957, 359.
-.W
-thermal buckling of clamped cylindrical shells .
-the problem of thermal buckling of shells arises in
-connection with air-frame bodies subject to aerodynamic heating at
-supersonic speeds .  the case of the shell with clamped edges is
-presented, as this case typifies all structures with a tubular shell
-stiffened at intervals with stiffening rings .  the shell is assumed
-to be unrestrained longitudinally and fully restrained laterally at
-the edges .
+886 T thermal buckl of clamp cylindr shell A zuk w B j ae scs 24 1957 359 W thermal buckl of clamp cylindr shell the problem of thermal buckl of shell aris in connect with air frame bodi subject to aerodynam heat at superson speed the case of the shell with clamp edg is present as this case typifi all structur with a tubular shell stiffen at interv with stiffen ring the shell is assum to be unrestrain longitudin and fully restrain later at the edg

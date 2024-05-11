@@ -1,15 +1,1 @@
- 795
-.T
-the operation of the npl 18in x 14in. wind tunnel in the transonic speed
- range .
-.A
-hall, i.m.
-.B
-a.r.c. c.p. 338, january 1957 .
-.W
-the operation of the npl 18in x 14in. wind tunnel in the transonic speed
- range .
-a brief description of the slotted liners used is given together with
-the power requirements and some flow surveys .
-some observations are made on wall interference on a half-model of a
-swept wing tested in the wind tunnel .
+795 T the oper of the npl 18in x 14in wind tunnel in the transon speed rang A hall i m B a r c c p 338 januari 1957 W the oper of the npl 18in x 14in wind tunnel in the transon speed rang a brief descript of the slot liner used is given together with the power requir and some flow survey some observ are made on wall interfer on a half model of a swept wing test in the wind tunnel

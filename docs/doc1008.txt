@@ -1,15 +1,1 @@
- 1008
-.T
-free-flight measurements of the static and dynamic .
-.A
-.B
-.W
-free-flight measurements of the static and dynamic .
-  representative experimental results are presented to show the
-current status of the panel flutter problem .  results are presented for
-unstiffened rectangular panels and for rectangular panels stiffened by
-corrugated backing .  flutter boundaries are established for all types
-of panels when considered on the basis of equivalent isotropic plates .
-the effects of mach number, differential pressure, and aerodynamic
-heating on panel flutter are discussed .  a flutter analysis of
-orthotropic panels is presented in the appendix .
+1008 T free flight measur of the static and dynam A B W free flight measur of the static and dynam repres experiment results are present to show the current status of the panel flutter problem results are present for unstiffened rectangular panel and for rectangular panel stiffen by corrug back flutter boundari are establish for all type of panel when consid on the basi of equival isotrop plate the effect of mach number differenti pressur and aerodynam heat on panel flutter are discuss a flutter analysi of orthotropic panel is present in the appendix

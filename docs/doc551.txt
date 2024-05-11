@@ -1,15 +1,1 @@
- 551
-.T
-analysis of a loaded cantilever plate by finite difference
-methods .
-.A
-livesley,r.k. and birchall,p.c.
-.B
-rae tn. ms26, 1956.
-.W
-analysis of a loaded cantilever plate by finite difference
-methods .
-  the various difference patterns necessary for finite difference
-solution of rectangular plate problems, with various boundary conditions
-and under various transverse loads, are developed .  the solution of
-one particular problem on deuce is also described .
+551 T analysi of a load cantilev plate by finite differ method A livesley r k and birchall p c B rae tn ms26 1956 W analysi of a load cantilev plate by finite differ method the various differ pattern necessary for finite differ solut of rectangular plate problem with various boundari condit and under various transvers load are develop the solut of one particular problem on deuc is also described

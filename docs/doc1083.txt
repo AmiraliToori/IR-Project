@@ -1,15 +1,1 @@
- 1083
-.T
-an investigation of fluid flow in two dimensions .
-.A
-thom, a.
-.B
-a.r.c., r + m, 1194. 1928 .
-.W
-an investigation of fluid flow in two dimensions .
-flow of an inviscid fluid . -dash there are in existence several methods
- of obtaining numerical solutions to the two-dimensional flow of a
-perfect fluid for given boundary conditions . part 2 of the present paper
-gives a method of obtaining a numerical solution for viscous steady flow
-solution of the simpler problem, illustrating it with examples bearing
-on the experimental work described in part iv .
+1083 T an investig of fluid flow in two dimens A thom a B a r c r m 1194 1928 W an investig of fluid flow in two dimens flow of an inviscid fluid dash there are in exist several method of obtain numer solut to the two dimension flow of a perfect fluid for given boundari condit part 2 of the present paper gives a method of obtain a numer solut for viscous steadi flow solut of the simpler problem illustr it with exampl bear on the experiment work described in part iv

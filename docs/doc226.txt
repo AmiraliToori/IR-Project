@@ -1,18 +1,1 @@
- 226
-.T
-aerofoil theory of a flat delta wing at supersonic
-speeds .
-.A
-robinson,a.
-.B
-rae r.aero.2151, 1946.
-.W
-aerofoil theory of a flat delta wing at supersonic
-speeds .
-  lift, drag, and pressure distribution of a triangular
-flat plate moving at a small incidence at supersonic
-speeds are given for arbitrary mach number and aspect ratio .
-the values obtained for lift and drag are compared with
-the corresponding values obtained by strip theory .  the
-possibility of further applications of the analysis leading up
-to the above results is indicated .
+226 T aerofoil theori of a flat delta wing at superson speed A robinson a B rae r aero 2151 1946 W aerofoil theori of a flat delta wing at superson speed lift drag and pressur distribut of a triangular flat plate move at a small incid at superson speed are given for arbitrari mach number and aspect ratio the valu obtained for lift and drag are compar with the corresponding valu obtained by strip theori the possibl of further applic of the analysi lead up to the above results is indicated

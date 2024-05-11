@@ -1,17 +1,1 @@
- 840
-.T
-analysis of partly wrinkled membrane .
-.A
-stein,m. and hedgepeth,j.m.
-.B
-nasa tn.d813, 1961.
-.W
-analysis of partly wrinkled membrane .
-  a theory is derived to predict the stresses and deformations of
-stretched-membrane structural components for loads under which part of
-the membrane wrinkles .  rather than studying in detail the deformations
-in the wrinkled region, the present theory studies average displacements
-of the wrinkled material .  specific solutions of problems in flat and
-curved membranes are presented .  the results of these solutions show
-that membrane structures retain much of their stiffness at loads
-substantially above the load at which wrinkling first occurs .
+840 T analysi of part wrinkl membran A stein m and hedgepeth j m B nasa tn d813 1961 W analysi of part wrinkl membran a theori is deriv to predict the stress and deform of stretch membran structur compon for load under which part of the membran wrinkl rather than studi in detail the deform in the wrinkl region the present theori studi averag displac of the wrinkl materi specific solut of problem in flat and curv membran are present the results of these solut show that membran structur retain much of their stiff at load substantially above the load at which wrinkl first occur

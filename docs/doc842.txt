@@ -1,17 +1,1 @@
- 842
-.T
-an improvement on donnell's approximation for thin-walled
-circular cylinders .
-.A
-morley,l.s.d.
-.B
-q. j. mech. app. math. 12, 1959.
-.W
-an improvement on donnell's approximation for thin-walled
-circular cylinders .
-  donnell's equation for thin-walled circular cylinders is replaced by
-where w is a non-dimensional form of the radial displacement and q is
-the distributed radial loading .  this equation retains the essential
-simplicity of the original but, unlike donnell's equation, the accuracy
-does not decrease as the wavelength of circumferential distortion
-increases .
+842 T an improv on donnell s approxim for thin wall circular cylind A morley l s d B q j mech app math 12 1959 W an improv on donnell s approxim for thin wall circular cylind donnell s equat for thin wall circular cylind is replac by where w is a non dimension form of the radial displac and q is the distribut radial load this equat retain the essenti simplic of the origin but unlike donnell s equat the accuraci does not decreas as the wavelength of circumferenti distort increas

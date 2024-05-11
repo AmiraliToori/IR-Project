@@ -1,15 +1,1 @@
- 1266
-.T
-minimum wing wave drag with volume constraint .
-.A
-strand,t.
-.B
-j. ae. scs. 1960, 615.
-.W
-minimum wing wave drag with volume constraint .
-  a numerical method is developed for calculating the minimum
-thickness drag for a given wing planform and volume using
-linearized supersonic flow theory .  the corresponding optimum
-volume distribution is also determined .  the results show that
-considerable drag reduction is possible by improved volume
-distribution .
+1266 T minimum wing wave drag with volum constraint A strand t B j ae scs 1960 615 W minimum wing wave drag with volum constraint a numer method is develop for calcul the minimum thick drag for a given wing planform and volum using linear superson flow theori the corresponding optimum volum distribut is also determin the results show that consider drag reduct is possible by improv volum distribut

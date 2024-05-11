@@ -1,16 +1,1 @@
- 965
-.T
-analytic determination of discharge coefficients of flow nozzles .
-.A
-simmons, f.s.
-.B
-naca tn 3449, 1955 .
-.W
-analytic determination of discharge coefficients of flow nozzles .
-integration of the velocity profile at the throat of a flow nozzle
-yields the discharge coefficient as a function of the ratio of boundary
-solution of the approximate momentum equation for the boundary layer .
-the resulting expression for the discharge coefficient is then a
-function of the reynolds number based on nozzle diameter and of the geometry
- of the nozzle . good agreement is shown between this expression and
-published experimental data on flow nozzles for reynolds numbers between
+965 T analyt determin of discharg coeffici of flow nozzl A simmons f s B naca tn 3449 1955 W analyt determin of discharg coeffici of flow nozzl integr of the veloc profil at the throat of a flow nozzl yield the discharg coeffici as a function of the ratio of boundari solut of the approximate momentum equat for the boundari layer the resulting express for the discharg coeffici is then a function of the reynold number base on nozzl diamet and of the geometri of the nozzl good agreement is shown between this express and publish experiment data on flow nozzl for reynold number between

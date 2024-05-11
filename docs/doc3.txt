@@ -1,12 +1,1 @@
- 3
-.T
-the boundary layer in simple shear flow past a flat plate .
-.A
-m. b. glauert
-.B
-department of mathematics, university of manchester, manchester,
-england
-.W
-the boundary layer in simple shear flow past a flat plate .
-the boundary-layer equations are presented for steady
-incompressible flow with no pressure gradient .
+3 T the boundari layer in simpl shear flow past a flat plate A m b glauert B depart of mathemat univers of manchest manchest england W the boundari layer in simpl shear flow past a flat plate the boundari layer equat are present for steadi incompress flow with no pressur gradient

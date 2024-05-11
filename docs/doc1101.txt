@@ -1,18 +1,1 @@
- 1101
-.T
-a sensor for obtaining ablation rates .
-.A
-winters, c.w. and bracalente, e.m.
-.B
-nasa tn d-800, 1961 .
-.W
-a sensor for obtaining ablation rates .
-a variable-capacitance ablation-rate sensor which allows continuous
-measurements of ablation rates for teflon and similar polymers has been
-developed and tested in an ethylene-heated high-temperature jet at
-stagnation temperatures ranging from 2,400degree to 3,800degree f .
-the data /length changes/ were measured by using the same telemeter
-equipment as that used in rocket-propelled flight vehicles . test
-results indicate measurement error to be a maximum of 4 percent between
-the telemetered length changes and the length changes that were obtained
- from photographic records of the test .
+1101 T a sensor for obtain ablat rate A winter c w and bracalente e m B nasa tn d 800 1961 W a sensor for obtain ablat rate a variabl capacit ablat rate sensor which allows continu measur of ablat rate for teflon and similar polym has been develop and test in an ethylen heat high temperatur jet at stagnat temperatur rang from 2 400degree to 3 800degree f the data length changes were measur by using the same telemet equip as that used in rocket propel flight vehicl test results indicate measur error to be a maximum of 4 percent between the telemet length changes and the length changes that were obtained from photograph record of the test

@@ -1,18 +1,1 @@
- 1236
-.T
-the stagnation point boundary layer in the presence
-of an applied magnetic field .
-.A
-bush,w.b.
-.B
-j. ae. scs. 1961, 610.
-.W
-the stagnation point boundary layer in the presence
-of an applied magnetic field .
-  similarity equations for axisymmetric compressible flow are
-obtained, assuming that the magnetic field is uniform, normal to the
-surface, and unaffected by the flow, and that the conductivity
-varies as the nth power of the enthalpy .  numerical solutions are
-given for a number of values of n and of the field strength, and are
-used to modify the estimates of heat-transfer made by the author
-using inviscid theory (title source 26, 536-537, 1959) .
+1236 T the stagnat point boundari layer in the presenc of an appli magnet field A bush w b B j ae scs 1961 610 W the stagnat point boundari layer in the presenc of an appli magnet field similar equat for axisymmetric compress flow are obtained assum that the magnet field is uniform normal to the surfac and unaffect by the flow and that the conduct vari as the nth power of the enthalpi numer solut are given for a number of valu of n and of the field strength and are used to modifi the estim of heat transfer made by the author using inviscid theori titl sourc 26 536 537 1959

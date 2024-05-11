@@ -1,13 +1,1 @@
- 137
-.T
-the generation of sound by aerodynamic means .
-.A
-curle,n.
-.B
-j.roy.ae.s. 65, 1961, 724.
-.W
-the generation of sound by aerodynamic means .
-  a summary is given of some of the more important experimental results
-relating to the noise radiated from a cold subsonic turbulent jet .
-these are then related to the predictions of lighthill's general theory
-of aerodynamic noise .
+137 T the generat of sound by aerodynam means A curle n B j roy ae s 65 1961 724 W the generat of sound by aerodynam means a summari is given of some of the more important experiment results relat to the nois radiat from a cold subson turbul jet these are then related to the predict of lighthill s general theori of aerodynam nois

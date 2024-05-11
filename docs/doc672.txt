@@ -1,16 +1,1 @@
- 672
-.T
-tunnel interference effects .
-.A
-pankhurst, r.c. and holder, d. w.
-.B
-wind tunnel techniques, chapter 8 pitman. 1952 .
-.W
-tunnel interference effects .
-the problems of solid blockage, wake blockage, lift effect, and the
-influence of boundary constraint at high mach number are considered in
-detail . corrections are given for various open and closed tunnels,
-rectangular, circular and octagonal, and different speeds, two and
-three dimensional flows, with several aerofoils and wings . other
-interferences include the wall boundary layer, gradient of static
-pressure and problems with the working fluid used .
+672 T tunnel interfer effect A pankhurst r c and holder d w B wind tunnel techniqu chapter 8 pitman 1952 W tunnel interfer effect the problem of solid blockag wake blockag lift effect and the influenc of boundari constraint at high mach number are consid in detail correct are given for various open and close tunnel rectangular circular and octagon and different speed two and three dimension flow with several aerofoil and wing other interfer includ the wall boundari layer gradient of static pressur and problem with the work fluid used

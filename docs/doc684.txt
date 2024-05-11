@@ -1,16 +1,1 @@
- 684
-.T
-tables of complete elliptic integrals .
-.A
-heuman,c.
-.B
-j. maths. and phys. v. 20, 1941, pp 127-206 .
-.W
-tables of complete elliptic integrals .
-the present paper contains a set of tables of complete elliptic
-integrals computed and collected especially for applications to certain
-dynamical problems .
-the tabulated functions are four in number and are denoted by
-f/a/, g/a/, e/a/, and/a,b/respectively . the definitions of these
-functions and their connections with the functions of legendre will be
-discussed in the following .
+684 T tabl of complet ellipt integr A heuman c B j math and phys v 20 1941 pp 127 206 W tabl of complet ellipt integr the present paper contains a set of tabl of complet ellipt integr comput and collect especially for applic to certain dynam problem the tabul function are four in number and are denot by f a g a e a and a b respectively the definit of these function and their connect with the function of legendre will be discuss in the following

@@ -1,13 +1,1 @@
- 1317
-.T
-shock-tube testing time .
-.A
-anderson, g.
-.B
-j. aero. sc. vol. 26, march 1959, p184 .
-.W
-shock-tube testing time .
-in a theoretical investigation of attenuation effects of the shock wave
-the conservation of mass equation led to an explanation of the
-difference between the ideal theoretical test time and the experimentally
-obtained time . a numerical example is given .
+1317 T shock tube test time A anderson g B j aero sc vol 26 march 1959 p184 W shock tube test time in a theoret investig of attenu effect of the shock wave the conserv of mass equat led to an explan of the differ between the ideal theoret test time and the experiment obtained time a numer example is given

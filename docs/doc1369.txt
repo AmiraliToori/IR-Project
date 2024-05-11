@@ -1,13 +1,1 @@
- 1369
-.T
-steady motion of a sphere., oseen's criticism and solution .
-.A
-.B
-.W
-steady motion of a sphere., oseens's criticism and solution .
-the formula of stokes for the resistance experienced slowly
-moving sphere has been employed in physical researches of fundamental
-importance, as a means of estimating the size of minute globules of
-water, and thence the number of globules contained in a cloud of
-given mass .  consequently the conditions of its validity has been much
-discussed both from the experimental and from the theoretical side .
+1369 T steadi motion of a sphere oseen s critic and solut A B W steadi motion of a sphere oseens s critic and solut the formula of stoke for the resist experienc slowli move sphere has been employ in physic research of fundament importance as a means of estim the size of minut globul of water and thence the number of globul contain in a cloud of given mass consequently the condit of its valid has been much discuss both from the experiment and from the theoret side

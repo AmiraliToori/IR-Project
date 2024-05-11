@@ -1,16 +1,1 @@
- 1016
-.T
-principles of creep buckling weight-strength analysis .
-.A
-.B
-.W
-principles of creep buckling weight-strength analysis .
-  the relation of the time-dependent tangent-modulus
-load--as conceived by shanley--to actual column capacity
-is clarified .  it may be interpreted as a limiting case of the
-conservative estimate .  the time-dependent
-tangent-modulus load is, therefore, an approximation to a
-conservative estimate .  the approximation, however, may
-be either conservative or nonconservative when applied
-to imperfect or real columns .  typical cases are discussed
-and experimental results for two alloys are cited .
+1016 T principl of creep buckl weight strength analysi A B W principl of creep buckl weight strength analysi the relat of the time depend tangent modulus load as conceiv by shanley to actual column capac is clarifi it may be interpret as a limit case of the conserv estim the time depend tangent modulus load is therefore an approxim to a conserv estim the approxim however may be either conserv or nonconservative when appli to imperfect or real column typic case are discuss and experiment results for two alloy are cite

@@ -1,16 +1,1 @@
- 46
-.T
-some comments on the inversion of certain large matrices .
-.A
-bertram klein
-.B
-convair, a division of general dynamics corp., san diego, calif.
-.W
-some comments on the inversion of certain large matrices .
-the subject of matric structural analysis has been treated in two
-recently published papers in the journal .  the authors of these papers
-have made a number of statements about the inversion of certain large
-matrices .  it is the purpose of this note to bring to the attention of
-the reader certain facts that shed new light on this important problem .
-it is shown here that the situation is not as hopeless as the above-
-mentioned authors intimate .
+46 T some comment on the invers of certain large matric A bertram klein B convair a divis of general dynam corp san diego calif W some comment on the invers of certain large matric the subject of matric structur analysi has been treat in two recently publish paper in the journal the author of these paper have made a number of statement about the invers of certain large matric it is the purpos of this note to bring to the attent of the reader certain fact that shed new light on this important problem it is shown here that the situat is not as hopeless as the above mention author intim

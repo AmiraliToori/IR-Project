@@ -1,18 +1,1 @@
- 969
-.T
-on the use of side-jets as control devices .
-.A
-liepman,h.p.
-.B
-ars jnl. 29, 1959, 453.
-.W
-on the use of side-jets as control devices .
-  wind tunnel experiments with side-jets, issuing laterally
-near the base of slender bodies in a supersonic stream, have
-suggested the existence of a sizable and usable interaction .
-with this interaction force, the use of jet reaction controls
-may be as attractive for flight within the atmosphere as it
-obviously is for flight outside the atmosphere .  this note
-indicates the altitude regime of interest and the order of
-magnitude of the interaction bonus for a lateral control
-jet located near the base of a body of revolution .
+969 T on the use of side jet as control devic A liepman h p B ar jnl 29 1959 453 W on the use of side jet as control devic wind tunnel experi with side jet issu later near the base of slender bodi in a superson stream have suggest the exist of a sizabl and usabl interact with this interact forc the use of jet reaction control may be as attract for flight within the atmospher as it obviously is for flight outside the atmospher this note indicates the altitud regim of interest and the order of magnitud of the interact bonus for a later control jet locat near the base of a body of revolut

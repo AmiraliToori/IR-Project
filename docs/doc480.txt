@@ -1,18 +1,1 @@
- 480
-.T
-adiabatic wall temperature due to mass transfer cooling with a
-combustible gas .
-.A
-d. b. spalding
-.B
-imperial college, london, england
-.W
-adiabatic wall temperature due to mass transfer cooling with a
-combustible gas .
-a recent technical note by sutton (1), with the above title, discusses
-the influence of the burning of a transpiration coolant on the quantity
-of coolant necessary to maintain a given wall temperature .  the present
-note discusses the same problem in a way which has been found useful
-in calculating the burning rates of solid and liquid fuels (2) .
-consider the transpiration cooling of a porous surface in a gas stream .
-then a simple modification of the general mass .
+480 T adiabat wall temperatur due to mass transfer cool with a combust gas A d b spalding B imperi colleg london england W adiabat wall temperatur due to mass transfer cool with a combust gas a recent technic note by sutton 1 with the above titl discuss the influenc of the burn of a transpir coolant on the quantiti of coolant necessary to maintain a given wall temperatur the present note discuss the same problem in a way which has been found useful in calcul the burn rate of solid and liquid fuel 2 consider the transpir cool of a porous surfac in a gas stream then a simpl modif of the general mass

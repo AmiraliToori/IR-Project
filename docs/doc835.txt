@@ -1,15 +1,1 @@
- 835
-.T
-the problem of strain accumulation under thermal cycling .
-.A
-b. e. gatewood
-.B
-research coordinator, air force institute of technology,
-wright-patterson air force base, ohio
-.W
-the problem of strain accumulation under thermal cycling .
-parkes and sprague and huang have shown that it is possible for strain
-growth to occur in a beam structure under temperature-load cycling .
-the various aspects of this problem as to criteria for convergence and
-divergence of the strain accumulation can be simply demonstrated by
-thermal cycling one element of a two-element structure .
+835 T the problem of strain accumul under thermal cycl A b e gatewood B research coordin air forc institut of technolog wright patterson air forc base ohio W the problem of strain accumul under thermal cycl park and sprague and huang have shown that it is possible for strain growth to occur in a beam structur under temperatur load cycl the various aspect of this problem as to criteria for converg and diverg of the strain accumul can be simpli demonstr by thermal cycl one element of a two element structur

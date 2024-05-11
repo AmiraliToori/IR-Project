@@ -1,16 +1,1 @@
- 510
-.T
-manoeuvring technique for changing the plane of circular
-orbits with minimum fuel expenditure .
-.A
-weiss,d.c.
-.B
-j. ae. scs. 29, 1962, 368.
-.W
-manoeuvring technique for changing the plane of circular
-orbits with minimum fuel expenditure .
-  usaf-supported discussion of the use of an intermediate
-elliptic orbit for changing the plane of a circular orbit .  values of the
-perigee and apogee velocities are calculated for the following cases ..
-the braking impulse supplied by grazing of the atmosphere,. and (3)
-re-orbit with 90 of the braking impulse supplied in this manner .
+510 T manoeuvr techniqu for chang the plane of circular orbit with minimum fuel expenditur A weiss d c B j ae scs 29 1962 368 W manoeuvr techniqu for chang the plane of circular orbit with minimum fuel expenditur usaf support discuss of the use of an intermedi ellipt orbit for chang the plane of a circular orbit valu of the perige and apoge veloc are calcul for the following case the brake impuls suppli by graze of the atmospher and 3 re orbit with 90 of the brake impuls suppli in this manner

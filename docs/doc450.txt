@@ -1,16 +1,1 @@
- 450
-.T
-some physical interpretations of magnetohydrodynamic duct flows .
-.A
-fujihiko sakao
-.B
-university of tokyo, tokyo, japan
-.W
-some physical interpretations of magnetohydrodynamic duct flows .
-this note presents some physical interpretations of magnetohydrodynamic
-duct flows with various boundary conditions viewed in the light of the
-effects of conducting walls on the pattern of electric current, taking
-examples from published results on rectangular ducts .  the current
-patterns are illustrated in fig. 1 for rectangular ducts having
-various combinations of conducting and nonconducting walls, a uniform
-magnetic field being applied in the horizontal direction .
+450 T some physic interpret of magnetohydrodynamic duct flow A fujihiko sakao B univers of tokyo tokyo japan W some physic interpret of magnetohydrodynamic duct flow this note present some physic interpret of magnetohydrodynamic duct flow with various boundari condit view in the light of the effect of conduct wall on the pattern of electr current taking exampl from publish results on rectangular duct the current pattern are illustr in fig 1 for rectangular duct having various combin of conduct and nonconduct wall a uniform magnet field being appli in the horizont direct

@@ -1,17 +1,1 @@
- 703
-.T
-general airfoil theory .
-.A
-kussner, h.g.
-.B
-naca tm 979, 1941 .
-.W
-general airfoil theory .
-on the assumption of infinitely small disturbances the author develops
-a generalized integral equation of airfoil theory which is applicable
-to any motion and compressible fluid . successive specializations yield
-various simpler integral equations, such as possio's, birnbaum's, and
-prandtl's integral equations, as well as new ones for the wing of
-infinite span with periodic downwash distribution and for the oscillating
-wing with high aspect ratio . lastly, several solutions and methods for
-solving these integral equations are given .
+703 T general airfoil theori A kussner h g B naca tm 979 1941 W general airfoil theori on the assumpt of infinit small disturb the author develop a general integr equat of airfoil theori which is applic to any motion and compress fluid success special yield various simpler integr equat such as possio s birnbaum s and prandtl s integr equat as well as new ones for the wing of infinit span with period downwash distribut and for the oscil wing with high aspect ratio last several solut and method for solv these integr equat are given

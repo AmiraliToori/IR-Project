@@ -1,11 +1,1 @@
- 281
-.T
-higher order approximations for relaxation oscillations .
-.A
-.B
-.W
-higher order approximations for relaxation oscillations .
-the problem of solving asymptotic developments for all quantities
-involved in relaxation oscillations has been solved by haag .  this
-paper indicates how one can carry out such developments in a case
-which is simple enough to be treated explicitly .
+281 T higher order approxim for relax oscil A B W higher order approxim for relax oscil the problem of solv asymptot develop for all quantiti involv in relax oscil has been solv by haag this paper indicates how one can carri out such develop in a case which is simpl enough to be treat explicit

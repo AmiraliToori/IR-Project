@@ -1,16 +1,1 @@
- 1306
-.T
-experiments on circular cones at yaw in supersonic
-flow .
-.A
-holt,m. and blackie,j.
-.B
-j. ae. scs. 23, 1956, 931.
-.W
-experiments on circular cones at yaw in supersonic
-flow .
-  pressure measurements made in the fort halstead
-supersonic tunnel on two circular cones, of semiapex angles 15 and
-coefficients are compared with corresponding values calculated
-by theoretical methods, and the relative merits of these methods
-are then discussed .
+1306 T experi on circular cone at yaw in superson flow A holt m and blackie j B j ae scs 23 1956 931 W experi on circular cone at yaw in superson flow pressur measur made in the fort halstead superson tunnel on two circular cone of semiapex angl 15 and coeffici are compar with corresponding valu calcul by theoret method and the relative merit of these method are then discuss

@@ -1,17 +1,1 @@
- 761
-.T
-buckling of sandwich under normal pressure .
-.A
-yao,j.c.
-.B
-j. ae. scs. 29, 1962, 264.
-.W
-buckling of sandwich under normal pressure .
-  a theoretical study is made of the buckling of a sandwich sphere
-comprised of a core layer of low-modulus material and two thin
-facing layers of higher modulus material .  the solution for the
-buckling resistance of the sphere under normal external pressure
-is obtained by linearized theory, and is reducible to the classical
-solution for monocoque spherical shells .  critical buckling
-pressures are calculated for various radius-thickness ratios and sphere
-materials .
+761 T buckl of sandwich under normal pressur A yao j c B j ae scs 29 1962 264 W buckl of sandwich under normal pressur a theoret studi is made of the buckl of a sandwich sphere compris of a core layer of low modulus materi and two thin face layer of higher modulus materi the solut for the buckl resist of the sphere under normal extern pressur is obtained by linear theori and is reduc to the classic solut for monocoque spheric shell critic buckl pressur are calcul for various radius thick ratio and sphere materi

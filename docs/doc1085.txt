@@ -1,17 +1,1 @@
- 1085
-.T
-note on the convergence of numerical solutions of the navier-stokes
-equations .
-.A
-thom, a. and apelt, c.j.
-.B
-a.r.c. r + m 3061. 1956 .
-.W
-note on the convergence of numerical solutions of the navier-stokes
-equations .
-a criterion is given for the convergence of numerical solutions of the
-navier-stokes equations in two dimensions under steady conditions . the
-criterion applies to all cases of steady viscous flow in two dimensions
-and shows that if the local 'mesh reynolds number', based on the size of
- the mesh used in the solution, exceeds a certain fixed value, the
-numerical solution will not converge .
+1085 T note on the converg of numer solut of the navier stoke equat A thom a and apelt c j B a r c r m 3061 1956 W note on the converg of numer solut of the navier stoke equat a criterion is given for the converg of numer solut of the navier stoke equat in two dimens under steadi condit the criterion appli to all case of steadi viscous flow in two dimens and shows that if the local mesh reynold number base on the size of the mesh used in the solut exceed a certain fix value the numer solut will not converg

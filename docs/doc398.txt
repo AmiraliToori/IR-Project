@@ -1,14 +1,1 @@
- 398
-.T
-heat transfer in turbulent shear flow .
-.A
-rannie,w.d.
-.B
-j. ae. scs. 23, 1956.
-.W
-heat transfer in turbulent shear flow .
-  the problems of heat transfer in turbulent shear flow along a
-smooth wall are discussed from the point of view of von karman's
-well-known 1939 paper on the analogy between fluid friction and
-heat transfer .  methods for extending the analysis to higher
-prandtl numbers are suggested .
+398 T heat transfer in turbul shear flow A rannie w d B j ae scs 23 1956 W heat transfer in turbul shear flow the problem of heat transfer in turbul shear flow along a smooth wall are discuss from the point of view of von karman s well known 1939 paper on the analog between fluid friction and heat transfer method for extend the analysi to higher prandtl number are suggest

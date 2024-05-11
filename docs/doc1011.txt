@@ -1,13 +1,1 @@
- 1011
-.T
-free-flight measurements of the static and dynamic .
-.A
-.B
-.W
-free-flight measurements of the static and dynamic .
-  charts have been prepared relating the thermodynamic properties of
-air in chemical equilibrium for temperatures to 15,000 k and for
-pressures from 10 to 10 atmospheres .  also included are charts showing
-the composition of air, the isentropic exponent, and the speed of
-sound .  these charts are based on thermodynamic data calculated by the
-national bureau of standards .
+1011 T free flight measur of the static and dynam A B W free flight measur of the static and dynam chart have been prepar relat the thermodynam properti of air in chemic equilibrium for temperatur to 15 000 k and for pressur from 10 to 10 atmospher also includ are chart show the composit of air the isentrop expon and the speed of sound these chart are base on thermodynam data calcul by the nation bureau of standard

@@ -1,18 +1,1 @@
- 107
-.T
-on the mixing of two parallel streams .
-.A
-ting,lu.
-.B
-j.math.phys. 38, 1959, 153.
-.W
-on the mixing of two parallel streams .
-  using the techniques of boundary-layer theory, the proper third
-boundary condition for the mixing of two parallel streams is
-derived from the compatibility condition of the higher order
-approximation .  it is shown that the commonly adopted third boundary
-condition of balancing of transverse momentum is correct only for
-the mixing problem of two semi-infinite incompressible streams .
-for the fulfillment of the proper third boundary condition, the
-possibility of introducing the similar solution of blasius type is
-examined for various cases .
+107 T on the mix of two parallel stream A ting lu B j math phys 38 1959 153 W on the mix of two parallel stream using the techniqu of boundari layer theori the proper third boundari condit for the mix of two parallel stream is deriv from the compat condit of the higher order approxim it is shown that the common adopt third boundari condit of balanc of transvers momentum is correct only for the mix problem of two semi infinit incompress stream for the fulfil of the proper third boundari condit the possibl of introduc the similar solut of blasius type is examin for various case

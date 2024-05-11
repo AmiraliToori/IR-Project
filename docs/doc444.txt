@@ -1,18 +1,1 @@
- 444
-.T
-an approach to the flutter problem in real fluids .
-.A
-rott,n. and george,m.b.t.
-.B
-inst. aero. scs. perp.509, 1955.
-.W
-an approach to the flutter problem in real fluids .
-  an approximate theory of airfoils in unsteady motion in a viscous
-fluid is proposed, in which viscous effects are accounted for by
-relaxing the kutta condition and replacing it by a relation derived from
-experiments in steady flow .  applications here, are limited to moderate
-viscous effects below the stall .  the possibility of one-degree-
-of-freedom flutter is discussed under this assumption .  the discussion is
-partly extrapolated to the domain of stall flutter .  some possibilities
-of further development of this theory for the stalled case are
-indicated .
+444 T an approach to the flutter problem in real fluid A rott n and georg m b t B inst aero scs perp 509 1955 W an approach to the flutter problem in real fluid an approximate theori of airfoil in unsteadi motion in a viscous fluid is propos in which viscous effect are account for by relax the kutta condit and replac it by a relat deriv from experi in steadi flow applic here are limit to moder viscous effect below the stall the possibl of one degre of freedom flutter is discuss under this assumpt the discuss is part extrapol to the domain of stall flutter some possibl of further develop of this theori for the stall case are indicated
